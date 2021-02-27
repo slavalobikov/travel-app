@@ -1,0 +1,5 @@
+{
+  "port": 4000,
+  "jwtSecret": "epam slavalobikov",
+  "mongoUri": "mongodb+srv://epam:slavalobikov@cluster0.maqaw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
